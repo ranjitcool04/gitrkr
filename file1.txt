@@ -1,1 +1,3 @@
-this is coranjithmmit in git
+this is commit in git
+
+after resolve
