@@ -1,4 +1,4 @@
-this is commit in git
+this is Ranjithcommit in git
 
 after resolve
 
