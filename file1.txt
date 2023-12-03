@@ -1,3 +1,6 @@
 this is Ranjithcommit in git
 
 after resolve
+
+
+chages
